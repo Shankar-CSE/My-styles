@@ -1,4 +1,88 @@
-.t1 {
+.cred{
     color: red;
-    font-size: 5em;
-}
+ }
+ .cblue{
+    color: blue;
+ }
+ .cgreen{
+    color: green;
+ }
+ .cblack{
+    color: black;
+ }
+ .cbrown{
+    color: brown;
+ }
+ .corange{
+    color: orange;
+ }
+ .cyellow{
+    color: yellow;
+ }
+ .cwhite{
+    color: white;
+ }
+ .cpurple{
+    color: purple;
+ }
+ .caqua{
+    color: aqua;
+ }
+ .cgray{
+    color: gray;
+ }
+ .csilver{
+    color: silver;
+ }
+ .cgold{
+    color: gold;
+ }
+ .cyellowgreen{
+    color: yellowgreen;
+ }
+ .cpink{
+    color: pink;
+ }
+ .cbeige{
+    color: beige;
+ }
+ .civory{
+    color: ivory;
+ }
+ .cnavy{
+    color: navy;
+ }
+ .cmaroon{
+    color: maroon;
+ }
+ .csienna{
+    color: sienna;
+ }
+ .cdblue{
+    color: darkblue;
+ }
+ .cdgreen{
+    color: darkgreen;
+ }
+ .cdkhaki{
+    color: darkkhaki;
+ }
+ .cdorange{
+    color: darkorange;
+ }
+ .cdgray{
+    color: darkgray;
+ }
+ .cb4{
+     color: #050A30;
+  }
+ .cb3{
+     color: #000C66;
+  }
+ .cb2{
+     color: #0000FF;
+  }
+ .cb1{
+    color: #7EC8E3;
+ }
+ 
