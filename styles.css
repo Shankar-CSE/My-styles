@@ -1,3 +1,7 @@
+
+
+
+
 .cred{
     color: red;
  }
@@ -73,16 +77,160 @@
  .cdgray{
     color: darkgray;
  }
- .cb4{
-     color: #050A30;
-  }
- .cb3{
-     color: #000C66;
-  }
- .cb2{
-     color: #0000FF;
-  }
- .cb1{
-    color: #7EC8E3;
- }
  
+
+
+
+
+.bcred{
+   background-color: red;
+}
+.bcblue{
+   background-color: blue;
+}
+.bcgreen{
+   background-color: green;
+}
+.bcblack{
+   background-color: black;
+}
+.bcbrown{
+   background-color: brown;
+}
+.bcorange{
+   background-color: orange;
+}
+.bcyellow{
+   background-color: yellow;
+}
+.bcwhite{
+   background-color: white;
+}
+.bcpurple{
+   background-color: purple;
+}
+.bcaqua{
+   background-color: aqua;
+}
+.bcgray{
+   background-color: gray;
+}
+.bcsilver{
+   background-color: silver;
+}
+.bcgold{
+   background-color: gold;
+}
+.bcyellowgreen{
+   background-color: yellowgreen;
+}
+.bcpink{
+   background-color: pink;
+}
+.bcbeige{
+   background-color: beige;
+}
+.bcivory{
+   background-color: ivory;
+}
+.bcnavy{
+   background-color: navy;
+}
+.bcmaroon{
+   background-color: maroon;
+}
+.bcsienna{
+   background-color: sienna;
+}
+.bcdblue{
+   background-color: darkblue;
+}
+.bcdgreen{
+   background-color: darkgreen;
+}
+.bcdkhaki{
+   background-color: darkkhaki;
+}
+.bcdorange{
+   background-color: darkorange;
+}
+.bcdgray{
+   background-color: darkgray;
+}
+
+
+
+.title-bar1{
+   background-color: aliceblue;
+   color: black;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px black;
+}
+
+.title-bar2{
+   background-color: black;
+   color: aliceblue;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px white;
+}
+
+.title-bar3{
+   border: 5px skyblue solid;
+   background-color: blue;
+   color: skyblue;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px 5px blue;
+}
+
+.title-bar4{
+   border: 5px #EDF4C2 solid;
+   background-color: #EB5A3C;
+   color: #EDF4C2;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px 5px #EB5A3C;
+}
+
+.title-bar5{
+   border: 5px #344CB7 solid;
+   background-color: #000957;
+   color: #344CB7;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px 5px #000957;
+}
+
+.title-bar6{
+   border: 5px black solid;
+   background-color: aliceblue;
+   color: black;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px white;
+}
+
+.title-bar7{
+   border: 5px white solid;
+   background-color: black;
+   color: white;
+   justify-content: center;
+   border-radius: 50px;
+   margin: 20px;
+   display: flex;
+   box-shadow: 5px 5px 10px black;
+}
